@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "dev:open": "next dev & open http://localhost:3000/blog",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
